@@ -26,7 +26,11 @@ engine = pyttsex3.init()
 voces = engine.getProperty('voces')      # Obtener todas la voces que tenemos instaladas en windows
 engine.setProperty('voice', voces[1].id) # 0 para hombre y 1 para mujer
 
-            
+# Inicializacion del microfono
+r = sr.Recognizer()
+micro = sr.Microphone(device_index=0) # decive index para decidir que microfono se va a usar, 0 default
+r.dynamic_energy_threshold = False    # Para que no active el microfono en todo momento
+r.energy_threshold = 400            
 
 # Lo que se hace en esta parte es tomar la entrada del usuario
 # mandarsela al API de OpenAI y despues leer la respuesta
