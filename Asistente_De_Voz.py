@@ -38,5 +38,5 @@ afinacion = openai.ChatCompletion.create(
 
 # Se imprime la respuesta
 respuesta = afinacion.choices[0].message.content                 # El cero es para la respuesta mas reciente
-mensajes = append({"role": "assistant", "content": respuesta})   # Se adjunta la lista de mensajes, se alamacena la conversacion
+mensajes.append({"role": "assistant", "content": respuesta})   # Se adjunta la lista de mensajes, se alamacena la conversacion
 print(f"\n(respuesta)\n")
