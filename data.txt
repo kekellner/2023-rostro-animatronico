@@ -1,0 +1,31 @@
+Datos de la universidad del Valle de Guatemala
+
+Fundacion
+En el año de 1966 se fundó la Universidad del Valle de Guatemala
+Hay 2 auditorios, uno en el I100 y el otro en el F105
+
+Datos sobre la sede central de la universidad del Valle de Guatemala
+La dirección de la sede central es 18 Avenida 11-95 Guatemala, Interior UVG, Cdad. de Guatemala 01015
+
+Secretaría de la cede central
+La secretaría está en el edificio F
+
+Cafetería de la cede central
+La cafetería está en el primer nivel, edificio H
+Hay otros lugares para comer, por ejemplo la pérgola
+
+Director de Ingeniería Mecatrónica de la cede central
+El director de ingenieria mecatrónica es el ingeniero Carlos Esquit
+La oficina del ingeniero Carlos Esquit esta ubicada en la oficina J307
+
+Laboratorios del Departamento de Ingeniería mecatrónica en la cede central
+Existen dos laboratorios en el edificio J, estos son J305 y el J306
+Asimismo, existen nuevos laboratorios en el edificio CIT
+Los laboratorios en el edificio CIT son CIT-116, CIT-117 y CIT-1118
+
+Carreras del departamento
+Son 3 carreras, que son Ingeniería electrónica, Ingeniería Mecatrónica e Ingeniería Biomédica
+
+Proyectos que la Universidad del Valle de Guatemala desarrolló
+El primer chip centroamericano
+Sistema electrónico y de control del Quetzal 1
